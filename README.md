@@ -67,30 +67,35 @@ This course includes an introduction to files and directories in the Linux files
 
 ## Lesson 2: Shell Commands
 
-- videos: 12  ->   S1: 1, S2: 1, S5: 3, S8: 2, S10: 1, S13: 1, S16: 1, S19: 1, S25: 1
+- videos: 14  ->   S1: 1, S2: 1, S3: 1, S4: 1, S5: 1, S6: 1, S7: 1, S8: 1, S9: 1, S10: 1, S11: 1, S12: 1, S13: 1, S14: 1
 
-- S1: 1, Introduction
+- S1: 1, L2 Intro
 
-- S2: 1, Arithmetic Operators
+- S2: 1, Filenames and Contents
 
-- S5: 3, Variables and Assignment Operators
+- S3: 1, Command History
 
-- S8: 2, Integers and Floats
+- S4: 1, Some Common Commands
 
-- S10: 1, Booleans, Comparison Operators, and Logical Operators
+- S5: 1, Manual Pages
 
-- S13: 1, Strings
+- S6: 1, Manual Pages and cowsay
 
-- S16: 1, Type and Type Conversion
+- S7: 1, Using the Manual for Serious Purpose
 
-- S19: 1, String Methods
+- S8: 1, Options to ls
 
-- S25: 1, Conclusion
+- S9: 1, Researching Commands
 
+- S10: 1, Line Based Programs
 
-### Welcome to Introduction to Python! 
+- S11: 1, Waiting for Input
 
-Here's an overview of the course.
+- S12: 1, Full Screen Interactive Programs: less
+
+- S13: 1, Editing Files in nano
+
+- S14: 1, Lesson Outro
 
 
 ## Lesson 3: The Linux Filesystem
