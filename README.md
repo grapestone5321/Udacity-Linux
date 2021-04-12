@@ -99,30 +99,41 @@ This course includes an introduction to files and directories in the Linux files
 
 
 ## Lesson 3: The Linux Filesystem
-- videos: 12  ->   S1: 1, S2: 1, S5: 3, S8: 2, S10: 1, S13: 1, S16: 1, S19: 1, S25: 1
 
-- S1: 1, Introduction
+- videos: 16  ->   S1: 1, S2: 1, S3: 1, S4: 1, S5: 1, S6: 1, S7: 1, S8: 1, S9: 1, S10: 1, S11: 1, S12: 1, S13: 1, S14: 1, S15: 1, S16: 1
 
-- S2: 1, Arithmetic Operators
+- S1: 1, Intro to the Filesystem
 
-- S5: 3, Variables and Assignment Operators
+- S2: 1, The Filesystem Tree
 
-- S8: 2, Integers and Floats
+- S3: 1, The Working Directory
 
-- S10: 1, Booleans, Comparison Operators, and Logical Operators
+- S4: 1, Absolute and Relative Paths
 
-- S13: 1, Strings
+- S5: 1, Absolute and Relative Paths
 
-- S16: 1, Type and Type Conversion
+- S6: 1, cd without args
 
-- S19: 1, String Methods
+- S7: 1, cd to not a directory
 
-- S25: 1, Conclusion
+- S8: 1, Navigating Directories
 
+- S9: 1, Tab Completion
 
-### Familiarize yourself with the building blocks of Python! 
+- S10: 1, Moving and Copying Files
 
-Learn about data types and operators, compound data structures, type conversion, built-in functions, and style guidelines.
+- S11: 1, Making and Removing Directories
+
+- S12: 1, mv and directories
+
+- S13: 1, Globbing
+
+- S14: 1, Globbing Quiz
+
+- S15: 1, Applying Globbing
+
+- S16: 1, Course Outro
+
 
 
 
