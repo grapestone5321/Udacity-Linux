@@ -15,7 +15,26 @@ https://classroom.udacity.com/courses/ud299
 
 -------
 
+## Papers
 
+## Linux - The Complete Reference
+https://doc.lagout.org/operating%20system%20/linux/Linux%20-%20The%20Complete%20Reference.pdf
+
+
+
+## Introduction to Linux: A Hands on Guide
+https://tldp.org/LDP/intro-linux/intro-linux.pdf
+
+Machtelt Garrels
+
+## LINUX: Rute User’s Tutorial and Exposition
+https://www0.sun.ac.za/hpc/images/d/d5/Rute.pdf
+
+## 200+Free Unix Ebooks Linux Ebooks And FreeBSD Ebooks
+https://itsubuntu.com/best-free-unix-ebooks-linux-ebooks/
+
+
+-------
 
 ## 1. Linux Command Line Basics
 https://classroom.udacity.com/courses/ud595
