@@ -412,6 +412,10 @@ Getting started, basics.
 ## Linux Administration Tutorial | Linux Tutorial | Linux Course | Intellipaat
 https://www.youtube.com/watch?v=aaEoyVIowk8
 
+
+
+Intellipaat
+
 In this Linux Administration Tutorial video, you will learn what is Linux, how to install Linux, how to setup kernel parameters, how to install & remove software, RPM in Linux, various commands in Linux, and various Linux services & systems in detail.
 
 #LinuxAdministrationTutorial #LinuxTutorial #LinuxCourse #Linux #LinuxAdministration #LinuxForBeginners #Intellipaat  #LinuxCommands #Intellipaat
