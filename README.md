@@ -363,4 +363,25 @@ Geek's Lesson
 
 -------
 
+## Linux Tutorial For Beginners - 1 | Linux Administration Tutorial | Linux Commands | Edureka
+https://www.youtube.com/watch?v=v_1zB2WNN14
+
+This Linux Tutorial video will help you get started with Linux Administration. 
+
+This Linux tutorial will also give you an introduction to the basic Linux commands so that you can start using the Linux CLI. 
+
+Do watch the video till the very end to see all the demonstration. 
+
+Below are the topics covered in this tutorial:
+
+- 1) Why go for Linux? 
+- 2) Various distributions of Linux
+- 3) Basic Linux commands: ls, cd, pwd, clear commands
+- 4) Working with files & directories: cat, vi, gedit, mkdir, rmdir, rm commands
+- 5) Managing file Permissions: chmod, chgrp, chown commands
+
+
+
+-------
+
 
