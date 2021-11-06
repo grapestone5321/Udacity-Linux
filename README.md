@@ -409,3 +409,43 @@ Getting started, basics.
 -------
 
 
+## Linux Administration Tutorial | Linux Tutorial | Linux Course | Intellipaat
+https://www.youtube.com/watch?v=aaEoyVIowk8
+
+In this Linux Administration Tutorial video, you will learn what is Linux, how to install Linux, how to setup kernel parameters, how to install & remove software, RPM in Linux, various commands in Linux, and various Linux services & systems in detail.
+
+#LinuxAdministrationTutorial #LinuxTutorial #LinuxCourse #Linux #LinuxAdministration #LinuxForBeginners #Intellipaat  #LinuxCommands #Intellipaat
+
+The following topics are covered in this video:
+
+- 00:00:00 - Linux Administration Tutorial
+- 00:38:00 - Introduction to Linux
+- 00:11:42 - Basics of Shell
+- 00:17:47 -  Top Shells in Linux
+- 00:21:49 - Basics of Kernal
+- 00:28:01- How to Install Linux?
+- 00:29:39 - Quiz
+- 00:59:54 - Quiz
+- 01:17:22 - Basic Linux Commands
+- 01:32:54 - Linux UI vs Terminal
+- 01:37:14 - How to login to remote Linux?
+- 01:41:46 - How to run a command as admin in Linux?
+- 01:45:05 - Good to know commands in Linux
+- 01:53:42 - Displaying - using Echo
+- 02:00:08 - Set and unset a Variable
+- 02:11:51 - Using Expr
+- 02:17:15 - Header File of Shell Script - using Shebang (#!)
+- 02:20:49 - Text Editors and Creating a File
+- 02:25:24 - Hands-on: Creating and saving a file in Vim
+- 02:28:21 - Understanding Linux File Permissions
+- 02:47:17 - Chmod and Chown
+- 03:00:41 - Displaying content in a File
+- 03:11:46 - Unix Process Control Commands
+- 03:34:41 - Linux Shell Scripting Tutorial
+- 04:28:12 - Shell Scripting: Loops and Iterations
+- 05:16:09 - Unix vs Linux
+- 05:22:57 - Linux Interview Questions
+
+-------
+
+
