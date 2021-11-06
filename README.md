@@ -324,6 +324,41 @@ https://www.youtube.com/watch?v=wBp0Rb-ZJak
 - 7:14:43 Setting up SSH on our local machine
 - 7:20:10 MAN command explained
 
+-------
+
+
+## Linux System Administration Full Course
+https://www.youtube.com/watch?v=wsh64rjnRas
+
+
+Geek's Lesson
+
+
+### Contents 
+### Linux Client
+- 01(0:00)   Linux Client Administration - Linux Installation Overview
+- 02(41:44)  Linux Client Administration - Command Line Navigation
+- 03(1:08:53)  Linux Client Administration - File Systems
+- 04(1:40:00)  Linux Client Administration - People and Permissions
+- 05(2:09:00)  Linux Client Administration - Software Repositories
+- 06(2:28:48)  Linux Client Administration - Programs and Scripts
+- 07(2:54:32)  Linux Client Administration - Services and Firewalls
+- 08(3:28:54)  Linux Client Administration - Processes and Resources
+- 09(4:07:10)  Linux Client Administration - Kernel and Hardware
+- 10(4:38:05)  Linux Client Administration - Logs and Queues
+
+### Linux Server
+- 01(4:59:00)  Linux Server Administration - Linux Installation Overview
+- 02(5:10:09)  Linux Server Administration - Network File System (NFS) Overview
+- 03(5:20:28)  Linux Server Administration - Samba Overview
+- 04(5:26:52)  Linux Server Administration - Apache Web Server Overview
+- 05(5:37:30)  Linux Server Administration - Database Server Overview
+- 06(5:45:03)  Linux Server Administration - Secure Shell Server Overview
+- 07(5:52:24)  Linux Server Administration - Mail Servers (Postfix) Overview
+- 08(6:04:08)  Linux Server Administration - Dynamic Host Configuration Protocol (DHCP) Overview
+- 09(06:14:12) Linux Server Administration - Domain Name System (DNS) Overview
+- 10(6:33:08)  Linux Server Administration - Simple Network Management Protocol (SNMP) Overview
+
 
 
 -------
