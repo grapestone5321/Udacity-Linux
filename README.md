@@ -384,4 +384,28 @@ Below are the topics covered in this tutorial:
 
 -------
 
+## Linux - Tutorial for Beginners in 13 MINUTES! [ UPDATED ]
+https://www.youtube.com/watch?v=BMGixkvJ-6w
+
+
+bai
+
+Learn how to use Linux (Ubuntu distribution) with this bash terminal tutorial in only 13 minutes by using its most-common terminal. 
+
+Getting started, basics. MORE at https://theskillsfactory.com/
+
+There is not a show or a playlist guide (unique video), unless you make requests.
+
+Enable SUBTITLES if you have trouble at understanding the narration. 
+
+Leave feedback if you can: this is our very first tutorial dedicated to programming!
+
+Learn how to use Linux, such as Ubuntu distribution, with this bash terminal tutorial in only 13 minutes by using its most-common terminal. 
+
+Getting started, basics.
+
+
+
+-------
+
 
