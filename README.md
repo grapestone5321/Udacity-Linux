@@ -474,4 +474,39 @@ The following topics are covered in this video:
 
 -------
 
+## Linux File System/Structure Explained!
+https://github.com/grapestone5321/Udacity-Linux/edit/main/README.md
+
+
+DorianDotSlash
+
+Ever get confused where to find things in Linux and where programs get installed? I'll explain what all the folders are for, and what's in them! (CLICK \/ SHOW MORE! \/ ) 
+
+If you're interested in what Linux is in general, along with how you use it and its components, check out my video "What is Linux?" : https://youtu.be/PwugmcN1hf8 
+
+- 00:00 Start
+- 02:35  /bin 
+- 02:50  /sbin 
+- 03:22  /boot 
+- 03:31  /cdrom 
+- 03:38  /dev 
+- 04:14  /etc 
+- 05:12  /lib, /lib32, /lib64 
+- 05:28  /mnt, /media 
+- 06:31  /opt 
+- 06:59  /proc 
+- 08:08  /root 
+- 08:31  /run 
+- 08:53  /snap
+- 09:08  /srv 
+- 09:28  /sys 
+- 09:51  /tmp 
+- 10:34  /usr 
+- 11:48  /var 
+- 12:15  /home 
+
+
+-------
+
+
 
