@@ -404,6 +404,28 @@ Learn how to use Linux, such as Ubuntu distribution, with this bash terminal tut
 
 Getting started, basics.
 
+### TIMESTAMPS
+- 00:00 Introduction
+- 00:26 What is Linux
+- 01:10 Bash Terminal
+- 01:38 The Command Line
+- 02:03 Current path with PWD
+- 02:20 Browsing with LS
+- 03:01 Permissions
+- 04:43 Moving with CD
+- 05:16 Create new folders and files
+- 05:45 Role of file path
+- 06:10 Moving items with MV
+- 07:06 The -R Option
+- 07:28 Deleting with RM
+- 07:47 One-time commands
+- 08:25 Shortcuts with LN
+- 08:53 Search for files
+- 09:09 Editing with VI
+- 10:36 Disk Status with DF
+- 10:58 Process Status with PS AUX
+- 11:08 Installing with Aptitude
+- 12:15 Help on commands
 
 
 -------
