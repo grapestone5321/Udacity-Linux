@@ -64,6 +64,19 @@ https://lwn.net/Kernel/LDD3/
       Chapter 18: TTY Drivers	
       Index	
 
+## How Do Linux Kernel Drivers Work? - Learning Resource
+https://www.youtube.com/watch?v=juGNPLdjLH4
+
+LiveOverflow
+
+
+If you want to hack the Kernel, are interested in jailbreaks or just want to understand computers better, Linux Device Drivers is a great book to get you started. 
+
+I used to learn the basics and in this video I want to share what *clicked* for me.
+
+- LDD Book: https://lwn.net/Kernel/LDD3/
+- LDD3 Example Code Updated: https://github.com/martinezjavier/ldd3
+
 
 
 -------
