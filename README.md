@@ -64,6 +64,15 @@ https://lwn.net/Kernel/LDD3/
       Chapter 18: TTY Drivers	
       Index	
 
+## LINUX DEVICE DRIVERS: THIRD EDITION
+https://bootlin.com/doc/books/ldd3.pdf
+
+Jonathan Corbet, Alessandro
+
+Rubini, and Greg Kroah-Hartman
+
+
+
 ## How Do Linux Kernel Drivers Work? - Learning Resource
 https://www.youtube.com/watch?v=juGNPLdjLH4
 
@@ -76,6 +85,8 @@ I used to learn the basics and in this video I want to share what *clicked* for 
 
 - LDD Book: https://lwn.net/Kernel/LDD3/
 - LDD3 Example Code Updated: https://github.com/martinezjavier/ldd3
+
+
 
 
 
