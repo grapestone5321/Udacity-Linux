@@ -561,6 +561,15 @@ If you're interested in what Linux is in general, along with how you use it and 
 - 11:48  /var 
 - 12:15  /home 
 
+-------
+
+## BIOS
+
+## BIOS - Wikipedia
+https://en.wikipedia.org/wiki/BIOS
+
+
+
 
 -------
 
