@@ -568,8 +568,20 @@ If you're interested in what Linux is in general, along with how you use it and 
 ## BIOS - Wikipedia
 https://en.wikipedia.org/wiki/BIOS
 
+-------
 
+## BIOS, CMOS, UEFI - What's the difference?
+https://www.youtube.com/watch?v=LGz0Io_dh_I
 
+PowerCert Animated Videos
+
+This video explains the difference between the BIOS, CMOS, and UEFI.  
+
+It also explains what the purpose of the CMOS battery.  
+
+What is the BIOS?  What is UEFI?  What is CMOS?
+
+#BIOS #UEFI #CMOS
 
 -------
 
