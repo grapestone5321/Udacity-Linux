@@ -585,5 +585,17 @@ What is the BIOS?  What is UEFI?  What is CMOS?
 
 -------
 
+## API
+
+## API - Wikipedia
+https://en.wikipedia.org/wiki/API#:~:text=An%20application%20programming%20interface%20(API,to%20other%20pieces%20of%20software.&text=An%20API%20is%20often%20made,are%20available%20to%20the%20programmer.
+
+-------
+
+## Shell (computing)
+
+## Shell (computing) - Wikipedia
+https://en.wikipedia.org/wiki/Shell_(computing)#:~:text=In%20computing%2C%20a%20shell%20is,computer's%20role%20and%20particular%20operation.
 
 
+-------
