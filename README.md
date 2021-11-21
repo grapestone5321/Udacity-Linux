@@ -35,6 +35,13 @@ https://itsubuntu.com/best-free-unix-ebooks-linux-ebooks/
 
 -------
 
+## LINUX DEVICE DRIVERS: THIRD EDITION
+https://bootlin.com/doc/books/ldd3.pdf
+
+Jonathan Corbet, Alessandro
+
+Rubini, and Greg Kroah-Hartman
+
 
 ## Linux Device Drivers
 https://lwn.net/Kernel/LDD3/
@@ -64,12 +71,7 @@ https://lwn.net/Kernel/LDD3/
       Chapter 18: TTY Drivers	
       Index	
 
-## LINUX DEVICE DRIVERS: THIRD EDITION
-https://bootlin.com/doc/books/ldd3.pdf
 
-Jonathan Corbet, Alessandro
-
-Rubini, and Greg Kroah-Hartman
 
 
 
